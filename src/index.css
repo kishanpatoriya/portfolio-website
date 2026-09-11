@@ -1,0 +1,17 @@
+@import "tailwindcss";
+
+* {
+  cursor: none !important;
+}
+
+html {
+  scroll-behavior: smooth;
+  cursor: none;
+}
+
+body {
+  margin: 0;
+  background-color: #030712;
+  color: #f8fafc;
+  cursor: none;
+}
