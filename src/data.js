@@ -30,7 +30,7 @@ export const projects = [
     title: "Hotel Booking System",
     description: "Full-stack hotel booking platform with real-time room browsing, detail pages, offers, and booking APIs.",
     tech: ["React.js", "Node.js", "Express.js", "MongoDB", "Figma"],
-    image: "/projects/hotel-booking.png",
+    image: "/projects/hotel-booking.jpeg",
     github: "https://github.com/kishanpatoriya",
     demo: "https://your-hotel-booking.vercel.app" // <-- Yahan apni live link dalein
   },
